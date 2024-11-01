@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+/* General */
+ .hide{
+ 	display:none;
+ }
+
+.wptimize-metaboxes fieldset{
+	min-height:32px;
+}
